@@ -56,7 +56,7 @@
   {
     "id": "JWCRDP_MDSMAK",
     "name": "Mading SMA/SMK",
-    "premium": true,
+    "premium": false,
     "contents": [
       {
         "published": "02-09-2025",
