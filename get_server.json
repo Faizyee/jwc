@@ -1,7 +1,7 @@
 {
   "put_user": "https://example.com/api/put_user",
   "get_user": "https://example.com/api/get_user",
-  "get_content": "https://example.com/api/get_content",
+  "get_content": "https://github.com/Faizyee/jwc/raw/refs/heads/main/get_content.json",
   "get_premium": "https://example.com/api/get_premium",
   "put_subscribe": "https://example.com/api/put_subscribe",
   "get_subscribe": "https://example.com/api/get_subscribe",
