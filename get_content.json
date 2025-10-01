@@ -1,6 +1,6 @@
 [
   {
-    "id": "JWCRDP_KDRT",
+    "id": "JWCRDPXKDRT",
     "name": "Koran Digital Radar Tegal",
     "premium": true,
     "contents": [
@@ -32,7 +32,7 @@
     ]
   },
   {
-    "id": "JWCRDP_MKPS",
+    "id": "JWCRDPXMKPS",
     "name": "Majalah Kampus",
     "premium": false,
     "contents": [
@@ -64,7 +64,7 @@
     ]
   },
   {
-    "id": "JWCRDP_MDSMAK",
+    "id": "JWCRDPXMDSMAK",
     "name": "Mading SMA/SMK",
     "premium": false,
     "contents": [
@@ -96,7 +96,7 @@
     ]
   },
   {
-    "id": "JWCRDP_MDSMP",
+    "id": "JWCRDPXMDSMP",
     "name": "Mading SMP",
     "premium": false,
     "contents": [
