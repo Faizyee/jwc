@@ -5,24 +5,29 @@
     "premium": true,
     "contents": [
       {
-        "published": "02-09-2025",
-        "content": "https://github.com/Faizyee/jwc/blob/main/Radar%2002-09-2025-06.pdf",
-        "thumbnail": "http://korandigitalradartegal.com/file_epaper/02-09-2025-06/1.jpg"
-      },
-      {
         "published": "01-09-2025",
-        "content": "https://github.com/Faizyee/jwc/blob/main/Radar%2001-09-2025-06.pdf",
-        "thumbnail": "http://korandigitalradartegal.com/file_epaper/01-09-2025-06/1.jpg"
+        "content": "https://raw.githubusercontent.com/Faizyee/jwc/refs/heads/main/Radar%2001-09-2025-06.pdf",
+        "thumbnail": "https://raw.githubusercontent.com/Faizyee/jwc/refs/heads/main/01-09-2025.png"
       },
       {
         "published": "30-08-2025",
-        "content": "https://github.com/Faizyee/jwc/blob/main/Radar%2030-08-2025-06.pdf",
-        "thumbnail": "http://korandigitalradartegal.com/file_epaper/30-08-2025-06/1.jpg"
+        "content": "https://raw.githubusercontent.com/Faizyee/jwc/refs/heads/main/Radar%2030-08-2025-06.pdf",
+        "thumbnail": "https://raw.githubusercontent.com/Faizyee/jwc/refs/heads/main/01-09-2025.png"
       },
       {
         "published": "29-08-2025",
-        "content": "https://github.com/Faizyee/jwc/blob/main/Radar%2029-08-2025-06.pdf",
-        "thumbnail": "http://korandigitalradartegal.com/file_epaper/29-08-2025-06/1.jpg"
+        "content": "https://raw.githubusercontent.com/Faizyee/jwc/refs/heads/main/Radar%2029-08-2025-06.pdf",
+        "thumbnail": "https://raw.githubusercontent.com/Faizyee/jwc/refs/heads/main/01-09-2025.png"
+      },
+      {
+        "published": "28-08-2025",
+        "content": "https://raw.githubusercontent.com/Faizyee/jwc/refs/heads/main/Radar%2028-08-2025-06.pdf",
+        "thumbnail": "https://raw.githubusercontent.com/Faizyee/jwc/refs/heads/main/01-09-2025.png"
+      },
+      {
+        "published": "27-08-2025",
+        "content": "https://raw.githubusercontent.com/Faizyee/jwc/refs/heads/main/Radar%2027-08-2025-06.pdf",
+        "thumbnail": "https://raw.githubusercontent.com/Faizyee/jwc/refs/heads/main/01-09-2025.png"
       }
     ]
   },
@@ -32,24 +37,29 @@
     "premium": false,
     "contents": [
       {
-        "published": "02-09-2025",
-        "content": "https://github.com/Faizyee/jwc/blob/main/Radar%2002-09-2025-06.pdf",
-        "thumbnail": "http://korandigitalradartegal.com/file_epaper/02-09-2025-06/1.jpg"
-      },
-      {
         "published": "01-09-2025",
-        "content": "https://github.com/Faizyee/jwc/blob/main/Radar%2001-09-2025-06.pdf",
-        "thumbnail": "http://korandigitalradartegal.com/file_epaper/01-09-2025-06/1.jpg"
+        "content": "https://raw.githubusercontent.com/Faizyee/jwc/refs/heads/main/Radar%2001-09-2025-06.pdf",
+        "thumbnail": "https://raw.githubusercontent.com/Faizyee/jwc/refs/heads/main/01-09-2025.png"
       },
       {
         "published": "30-08-2025",
-        "content": "https://github.com/Faizyee/jwc/blob/main/Radar%2030-08-2025-06.pdf",
-        "thumbnail": "http://korandigitalradartegal.com/file_epaper/30-08-2025-06/1.jpg"
+        "content": "https://raw.githubusercontent.com/Faizyee/jwc/refs/heads/main/Radar%2030-08-2025-06.pdf",
+        "thumbnail": "https://raw.githubusercontent.com/Faizyee/jwc/refs/heads/main/01-09-2025.png"
       },
       {
         "published": "29-08-2025",
-        "content": "https://github.com/Faizyee/jwc/blob/main/Radar%2029-08-2025-06.pdf",
-        "thumbnail": "http://korandigitalradartegal.com/file_epaper/29-08-2025-06/1.jpg"
+        "content": "https://raw.githubusercontent.com/Faizyee/jwc/refs/heads/main/Radar%2029-08-2025-06.pdf",
+        "thumbnail": "https://raw.githubusercontent.com/Faizyee/jwc/refs/heads/main/01-09-2025.png"
+      },
+      {
+        "published": "28-08-2025",
+        "content": "https://raw.githubusercontent.com/Faizyee/jwc/refs/heads/main/Radar%2028-08-2025-06.pdf",
+        "thumbnail": "https://raw.githubusercontent.com/Faizyee/jwc/refs/heads/main/01-09-2025.png"
+      },
+      {
+        "published": "27-08-2025",
+        "content": "https://raw.githubusercontent.com/Faizyee/jwc/refs/heads/main/Radar%2027-08-2025-06.pdf",
+        "thumbnail": "https://raw.githubusercontent.com/Faizyee/jwc/refs/heads/main/01-09-2025.png"
       }
     ]
   },
@@ -59,24 +69,29 @@
     "premium": false,
     "contents": [
       {
-        "published": "02-09-2025",
-        "content": "https://github.com/Faizyee/jwc/blob/main/Radar%2002-09-2025-06.pdf",
-        "thumbnail": "http://korandigitalradartegal.com/file_epaper/02-09-2025-06/1.jpg"
-      },
-      {
         "published": "01-09-2025",
-        "content": "https://github.com/Faizyee/jwc/blob/main/Radar%2001-09-2025-06.pdf",
-        "thumbnail": "http://korandigitalradartegal.com/file_epaper/01-09-2025-06/1.jpg"
+        "content": "https://raw.githubusercontent.com/Faizyee/jwc/refs/heads/main/Radar%2001-09-2025-06.pdf",
+        "thumbnail": "https://raw.githubusercontent.com/Faizyee/jwc/refs/heads/main/01-09-2025.png"
       },
       {
         "published": "30-08-2025",
-        "content": "https://github.com/Faizyee/jwc/blob/main/Radar%2030-08-2025-06.pdf",
-        "thumbnail": "http://korandigitalradartegal.com/file_epaper/30-08-2025-06/1.jpg"
+        "content": "https://raw.githubusercontent.com/Faizyee/jwc/refs/heads/main/Radar%2030-08-2025-06.pdf",
+        "thumbnail": "https://raw.githubusercontent.com/Faizyee/jwc/refs/heads/main/01-09-2025.png"
       },
       {
         "published": "29-08-2025",
-        "content": "https://github.com/Faizyee/jwc/blob/main/Radar%2029-08-2025-06.pdf",
-        "thumbnail": "http://korandigitalradartegal.com/file_epaper/29-08-2025-06/1.jpg"
+        "content": "https://raw.githubusercontent.com/Faizyee/jwc/refs/heads/main/Radar%2029-08-2025-06.pdf",
+        "thumbnail": "https://raw.githubusercontent.com/Faizyee/jwc/refs/heads/main/01-09-2025.png"
+      },
+      {
+        "published": "28-08-2025",
+        "content": "https://raw.githubusercontent.com/Faizyee/jwc/refs/heads/main/Radar%2028-08-2025-06.pdf",
+        "thumbnail": "https://raw.githubusercontent.com/Faizyee/jwc/refs/heads/main/01-09-2025.png"
+      },
+      {
+        "published": "27-08-2025",
+        "content": "https://raw.githubusercontent.com/Faizyee/jwc/refs/heads/main/Radar%2027-08-2025-06.pdf",
+        "thumbnail": "https://raw.githubusercontent.com/Faizyee/jwc/refs/heads/main/01-09-2025.png"
       }
     ]
   },
@@ -86,24 +101,29 @@
     "premium": false,
     "contents": [
       {
-        "published": "02-09-2025",
-        "content": "https://github.com/Faizyee/jwc/blob/main/Radar%2002-09-2025-06.pdf",
-        "thumbnail": "http://korandigitalradartegal.com/file_epaper/02-09-2025-06/1.jpg"
-      },
-      {
         "published": "01-09-2025",
-        "content": "https://github.com/Faizyee/jwc/blob/main/Radar%2001-09-2025-06.pdf",
-        "thumbnail": "http://korandigitalradartegal.com/file_epaper/01-09-2025-06/1.jpg"
+        "content": "https://raw.githubusercontent.com/Faizyee/jwc/refs/heads/main/Radar%2001-09-2025-06.pdf",
+        "thumbnail": "https://raw.githubusercontent.com/Faizyee/jwc/refs/heads/main/01-09-2025.png"
       },
       {
         "published": "30-08-2025",
-        "content": "https://github.com/Faizyee/jwc/blob/main/Radar%20030-08-2025-06.pdf",
-        "thumbnail": "http://korandigitalradartegal.com/file_epaper/30-08-2025-06/1.jpg"
+        "content": "https://raw.githubusercontent.com/Faizyee/jwc/refs/heads/main/Radar%2030-08-2025-06.pdf",
+        "thumbnail": "https://raw.githubusercontent.com/Faizyee/jwc/refs/heads/main/01-09-2025.png"
       },
       {
         "published": "29-08-2025",
-        "content": "https://github.com/Faizyee/jwc/blob/main/Radar%2029-08-2025-06.pdf",
-        "thumbnail": "http://korandigitalradartegal.com/file_epaper/29-08-2025-06/1.jpg"
+        "content": "https://raw.githubusercontent.com/Faizyee/jwc/refs/heads/main/Radar%2029-08-2025-06.pdf",
+        "thumbnail": "https://raw.githubusercontent.com/Faizyee/jwc/refs/heads/main/01-09-2025.png"
+      },
+      {
+        "published": "28-08-2025",
+        "content": "https://raw.githubusercontent.com/Faizyee/jwc/refs/heads/main/Radar%2028-08-2025-06.pdf",
+        "thumbnail": "https://raw.githubusercontent.com/Faizyee/jwc/refs/heads/main/01-09-2025.png"
+      },
+      {
+        "published": "27-08-2025",
+        "content": "https://raw.githubusercontent.com/Faizyee/jwc/refs/heads/main/Radar%2027-08-2025-06.pdf",
+        "thumbnail": "https://raw.githubusercontent.com/Faizyee/jwc/refs/heads/main/01-09-2025.png"
       }
     ]
   }
