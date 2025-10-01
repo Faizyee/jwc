@@ -2,7 +2,7 @@
   "put_user": "https://example.com/api/put_user",
   "get_user": "https://example.com/api/get_user",
   "get_content": "https://github.com/Faizyee/jwc/raw/refs/heads/main/get_content.json",
-  "get_premium": "https://example.com/api/get_premium",
+  "get_premium": "https://github.com/Faizyee/jwc/raw/refs/heads/main/get_premium.json",
   "put_subscribe": "https://example.com/api/put_subscribe",
   "get_subscribe": "https://example.com/api/get_subscribe",
   "get_payment": "https://example.com/api/get_payment"
