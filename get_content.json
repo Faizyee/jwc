@@ -27,8 +27,62 @@
     ]
   },
   {
+    "id": "JWCRDP_MKPS",
+    "name": "Majalah Kampus",
+    "premium": false,
+    "contents": [
+      {
+        "published": "02-09-2025",
+        "content": "http://korandigitalradartegal.com/proses/download_pdf.php?filename=02-09-2025-06",
+        "thumbnail": "http://korandigitalradartegal.com/file_epaper/02-09-2025-06/1.jpg"
+      },
+      {
+        "published": "01-09-2025",
+        "content": "http://korandigitalradartegal.com/proses/download_pdf.php?filename=01-09-2025-06",
+        "thumbnail": "http://korandigitalradartegal.com/file_epaper/01-09-2025-06/1.jpg"
+      },
+      {
+        "published": "30-08-2025",
+        "content": "http://korandigitalradartegal.com/proses/download_pdf.php?filename=30-08-2025-06",
+        "thumbnail": "http://korandigitalradartegal.com/file_epaper/30-08-2025-06/1.jpg"
+      },
+      {
+        "published": "29-08-2025",
+        "content": "http://korandigitalradartegal.com/proses/download_pdf.php?filename=29-08-2025-06",
+        "thumbnail": "http://korandigitalradartegal.com/file_epaper/29-08-2025-06/1.jpg"
+      }
+    ]
+  },
+  {
     "id": "JWCRDP_MDSMAK",
     "name": "Mading SMA/SMK",
+    "premium": true,
+    "contents": [
+      {
+        "published": "02-09-2025",
+        "content": "http://korandigitalradartegal.com/proses/download_pdf.php?filename=02-09-2025-06",
+        "thumbnail": "http://korandigitalradartegal.com/file_epaper/02-09-2025-06/1.jpg"
+      },
+      {
+        "published": "01-09-2025",
+        "content": "http://korandigitalradartegal.com/proses/download_pdf.php?filename=01-09-2025-06",
+        "thumbnail": "http://korandigitalradartegal.com/file_epaper/01-09-2025-06/1.jpg"
+      },
+      {
+        "published": "30-08-2025",
+        "content": "http://korandigitalradartegal.com/proses/download_pdf.php?filename=30-08-2025-06",
+        "thumbnail": "http://korandigitalradartegal.com/file_epaper/30-08-2025-06/1.jpg"
+      },
+      {
+        "published": "29-08-2025",
+        "content": "http://korandigitalradartegal.com/proses/download_pdf.php?filename=29-08-2025-06",
+        "thumbnail": "http://korandigitalradartegal.com/file_epaper/29-08-2025-06/1.jpg"
+      }
+    ]
+  },
+  {
+    "id": "JWCRDP_MDSMP",
+    "name": "Mading SMP",
     "premium": false,
     "contents": [
       {
