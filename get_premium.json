@@ -1,4 +1,5 @@
 [
+  {"title": "7 Hari Premium", "price": 110000, "duration_month": 0.1},
   {"title": "1 Bulan Premium", "price": 110000, "duration_month": 1},
   {"title": "3 Bulan Premium", "price": 330000, "duration_month": 3},
   {"title": "12 Bulan Premium", "price": 1320000, "duration_month": 12}
