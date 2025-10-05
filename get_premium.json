@@ -1,6 +1,7 @@
 [
-  {"title": "7 Hari Premium", "price": 110000, "duration_month": 0.234},
-  {"title": "1 Bulan Premium", "price": 110000, "duration_month": 1},
-  {"title": "3 Bulan Premium", "price": 330000, "duration_month": 3},
-  {"title": "12 Bulan Premium", "price": 1320000, "duration_month": 12}
+  {"title": "1 Hari Premium", "price": 4000, "duration_month": 0, "duration_days": 1},
+  {"title": "7 Hari Premium", "price": 28000, "duration_month": 0, "duration_days": 7},
+  {"title": "1 Bulan Premium", "price": 110000, "duration_month": 1, "duration_days": 0},
+  {"title": "3 Bulan Premium", "price": 330000, "duration_month": 3, "duration_days": 0},
+  {"title": "1 Tahun Premium", "price": 1320000, "duration_month": 12, "duration_days": 0}
 ]
