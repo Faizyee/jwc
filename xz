@@ -1,0 +1,88 @@
+{
+    "success": true,
+    "message": "Newspaper fetched successfully",
+    "data": {
+        "id": 1,
+        "title": "Debitis earum repreh",
+        "description": "Ipsam qui excepturi ",
+        "category_id": 1,
+        "admin_id": 1,
+        "publication_date": "2025-10-03T17:00:00.000Z",
+        "is_premium": 0,
+        "status": "published",
+        "view_count": 0,
+        "thumbnail": "uploads/newspapers/images/image-1759581869927-828754684.jpg",
+        "like_count": 0,
+        "dislike_count": 0,
+        "created_at": "2025-10-04T12:44:30.000Z",
+        "updated_at": "2025-10-04T12:44:30.000Z",
+        "category_name": "koran digital",
+        "media": [
+            {
+                "id": 1,
+                "newspaper_id": 1,
+                "media_type": "image",
+                "file_name": "image-1759581869927-828754684.jpg",
+                "file_path": "uploads/newspapers/images/image-1759581869927-828754684.jpg",
+                "video_link": null,
+                "file_size": 2078731,
+                "mime_type": "image/jpeg",
+                "caption": null,
+                "sort_order": 0,
+                "page_number": 1,
+                "created_at": "2025-10-04T12:44:30.000Z",
+                "updated_at": "2025-10-04T12:44:30.000Z",
+                "articles": []
+            },
+            {
+                "id": 2,
+                "newspaper_id": 1,
+                "media_type": "video",
+                "file_name": "video-1759581870143-788809114.mp4",
+                "file_path": "uploads/newspapers/videos/video-1759581870143-788809114.mp4",
+                "video_link": null,
+                "file_size": 1283866,
+                "mime_type": "video/mp4",
+                "caption": null,
+                "sort_order": 1,
+                "page_number": 1,
+                "created_at": "2025-10-04T12:44:30.000Z",
+                "updated_at": "2025-10-04T12:44:30.000Z",
+                "articles": []
+            },
+            {
+                "id": 3,
+                "newspaper_id": 1,
+                "media_type": "image",
+                "file_name": "image-1759581870280-216316720.jpg",
+                "file_path": "uploads/newspapers/images/image-1759581870280-216316720.jpg",
+                "video_link": null,
+                "file_size": 1799871,
+                "mime_type": "image/jpeg",
+                "caption": null,
+                "sort_order": 2,
+                "page_number": 2,
+                "created_at": "2025-10-04T12:44:30.000Z",
+                "updated_at": "2025-10-04T12:44:30.000Z",
+                "articles": [
+                    {
+                        "id": 1,
+                        "media_id": 3,
+                        "title": "Et quis a suscipit s",
+                        "content": "Voluptatum molestiae"
+                    },
+                    {
+                        "id": 2,
+                        "media_id": 3,
+                        "title": "Quo dignissimos esse",
+                        "content": "Culpa porro exercit"
+                    }
+                ]
+            }
+        ],
+        "images_count": 2,
+        "videos_count": 1,
+        "has_pdf": false
+    },
+    "timestamp": "2025-10-05T13:38:40.357Z"
+}
