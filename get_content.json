@@ -7,7 +7,29 @@
       {
         "published": "01-09-2025",
         "content": "https://raw.githubusercontent.com/Faizyee/jwc/refs/heads/main/Radar%2001-09-2025-06.pdf",
-        "thumbnail": "https://raw.githubusercontent.com/Faizyee/jwc/refs/heads/main/01-09-2025.png"
+        "thumbnail": "https://raw.githubusercontent.com/Faizyee/jwc/refs/heads/main/01-09-2025.png",
+        "articles": [
+            {
+              "media": "https://raw.githubusercontent.com/Faizyee/jwc/refs/heads/main/01-09-2025.png",
+              "title": "Et quis a suscipit s",
+              "content": "Voluptatum molestiae"
+            },
+            {
+              "media": "https://raw.githubusercontent.com/Faizyee/jwc/refs/heads/main/01-09-2025.png",
+              "title": "Quo dignissimos esse",
+              "content": "Culpa porro exercit"
+            }
+        ],
+        "video_content": [
+          {
+            "thumbnail": "https://raw.githubusercontent.com/Faizyee/jwc/refs/heads/main/01-09-2025.png",
+            "video": "https://youtu.be/eqKcvujIFC4?si=4MloGi6YEKvch6OA"
+          },
+          {
+            "thumbnail": "https://raw.githubusercontent.com/Faizyee/jwc/refs/heads/main/01-09-2025.png",
+            "video": "https://youtu.be/eqKcvujIFC4?si=4MloGi6YEKvch6OA"
+          },
+        ],
       },
       {
         "published": "30-08-2025",
@@ -27,7 +49,19 @@
       {
         "published": "27-08-2025",
         "content": "https://raw.githubusercontent.com/Faizyee/jwc/refs/heads/main/Radar%2027-08-2025-06.pdf",
-        "thumbnail": "https://raw.githubusercontent.com/Faizyee/jwc/refs/heads/main/27-08-2025.png"
+        "thumbnail": "https://raw.githubusercontent.com/Faizyee/jwc/refs/heads/main/27-08-2025.png",
+        "articles": [
+          {
+            "media": "https://raw.githubusercontent.com/Faizyee/jwc/refs/heads/main/01-09-2025.png",
+            "title": "Et quis a suscipit s",
+            "content": "Voluptatum molestiae"
+          },
+          {
+            "media": "https://raw.githubusercontent.com/Faizyee/jwc/refs/heads/main/01-09-2025.png",
+            "title": "Quo dignissimos esse",
+            "content": "Culpa porro exercit"
+          }
+        ]
       },
       {
         "published": "01-09-2025",
