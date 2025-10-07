@@ -1,7 +1,7 @@
 {
   "put_user": "https://example.com/api/put_user",
   "get_user": "https://example.com/api/get_user",
-  "get_content": "https://raw.githubusercontent.com/Faizyee/jwc/refs/heads/main/get_content.json",
+  "get_content": "http://192.168.1.28:3000/user/newspaper/",
   "get_premium": "https://raw.githubusercontent.com/Faizyee/jwc/refs/heads/main/get_premium.json",
   "put_subscribe": "https://example.com/api/put_subscribe",
   "get_subscribe": "https://example.com/api/get_subscribe",
