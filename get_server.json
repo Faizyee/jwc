@@ -1,5 +1,5 @@
 {
-  "base": "100.111.99.90:3000",
+  "base": "http://100.111.99.90:3000",
   "put_user": "https://example.com/api/put_user",
   "get_user": "https://example.com/api/get_user",
   "get_content": "/user/newspaper",
