@@ -1,5 +1,5 @@
 {
-  "base": "http://192.168.137.95:3000",
+  "base": "http://192.168.59.255:3000",
   "put_user": "https://example.com/api/put_user",
   "get_user": "https://example.com/api/get_user",
   "get_content": "/user/newspaper",
