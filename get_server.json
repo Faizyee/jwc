@@ -1,9 +1,9 @@
 {
-  "base": "http://192.168.1.28:3000/",
+  "base": "http://192.168.137.95:3000",
   "put_user": "https://example.com/api/put_user",
   "get_user": "https://example.com/api/get_user",
-  "get_content": "http://192.168.1.28:3000/user/newspaper/",
-  "get_premium": "https://raw.githubusercontent.com/Faizyee/jwc/refs/heads/main/get_premium.json",
+  "get_content": "/user/newspaper",
+  "get_premium": "/user/subscription-plans",
   "put_subscribe": "https://example.com/api/put_subscribe",
   "get_subscribe": "https://example.com/api/get_subscribe",
   "get_payment": "https://example.com/api/get_payment"
