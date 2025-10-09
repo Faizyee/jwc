@@ -1,9 +1,10 @@
 {
-  "base": "http://100.111.99.90:3000",
+  "base": "https://raw.githubusercontent.com/Faizyee/jwc/refs/heads/main",
   "put_user": "https://example.com/api/put_user",
   "get_user": "https://example.com/api/get_user",
-  "get_content": "/user/newspaper",
-  "get_premium": "/user/subscription-plans",
+  "get_content": "/get_content.json",
+  "get_content_id": "/get_content.json",
+  "get_premium": "/get_premium.json",
   "put_subscribe": "https://example.com/api/put_subscribe",
   "get_subscribe": "https://example.com/api/get_subscribe",
   "get_payment": "https://example.com/api/get_payment"
