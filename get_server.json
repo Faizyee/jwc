@@ -4,7 +4,7 @@
   "get_user": "https://example.com/api/get_user",
   "get_content": "user/newspaper",
   "get_content_id": "user/newspaper/",
-  "get_premium": "user/subscription-plan",
+  "get_premium": "user/subscription-plans",
   "put_subscribe": "https://example.com/api/put_subscribe",
   "get_subscribe": "https://example.com/api/get_subscribe",
   "get_payment": "https://example.com/api/get_payment"
