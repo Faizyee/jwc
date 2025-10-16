@@ -1,5 +1,8 @@
 {
   "base": "http://100.111.99.90:3000/",
+  "login_user": "user/auth/login",
+  "register_user": "user/auth/register",
+  "verify_otp": "user/auth/verify-otp",
   "put_user": "https://example.com/api/put_user",
   "get_user": "https://example.com/api/get_user",
   "get_content": "user/newspaper",
