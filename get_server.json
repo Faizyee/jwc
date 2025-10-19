@@ -4,7 +4,7 @@
   "register_user": "user/auth/register/",
   "verify_otp": "user/auth/verify-otp/",
   "feedback": "user/feedbacks/",
-  "edit-account": "user/auth/profile/",
+  "edit_account": "user/auth/profile/",
   "get_content": "user/newspaper/",
   "get_premium": "user/subscription-plans/"
 }
