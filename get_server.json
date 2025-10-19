@@ -1,15 +1,10 @@
 {
   "base": "http://100.111.99.90:3000/",
-  "login_user": "user/auth/login",
-  "register_user": "user/auth/register",
-  "verify_otp": "user/auth/verify-otp",
-  "feedback": "user/feedbacks",
-  "put_user": "https://example.com/api/put_user",
-  "get_user": "https://example.com/api/get_user",
-  "get_content": "user/newspaper",
-  "get_content_id": "user/newspaper/",
-  "get_premium": "user/subscription-plans",
-  "put_subscribe": "https://example.com/api/put_subscribe",
-  "get_subscribe": "https://example.com/api/get_subscribe",
-  "get_payment": "https://example.com/api/get_payment"
+  "login_user": "user/auth/login/",
+  "register_user": "user/auth/register/",
+  "verify_otp": "user/auth/verify-otp/",
+  "feedback": "user/feedbacks/",
+  "edit-account": "user/auth/profile/",
+  "get_content": "user/newspaper/",
+  "get_premium": "user/subscription-plans/"
 }
