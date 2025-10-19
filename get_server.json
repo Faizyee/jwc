@@ -5,7 +5,7 @@
   "verify_otp": "user/auth/verify-otp/",
   "feedback": "user/feedbacks/",
   "edit_profile": "user/auth/profile/",
-  "get_profile": "user/auth/profil/",
+  "get_profile": "user/auth/profile/",
   "get_content": "user/newspaper/",
   "get_premium": "user/subscription-plans/"
 }
