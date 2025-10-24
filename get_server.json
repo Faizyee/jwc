@@ -4,6 +4,7 @@
   "register_user": "user/auth/register/",
   "verify_otp": "user/auth/verify-otp/",
   "feedback": "user/feedbacks/",
+  "save_fcm": "user/auth/save-fcm/",
   "edit_profile": "user/auth/profile/",
   "get_profile": "user/auth/profile/",
   "get_content": "user/newspaper/",
