@@ -1,5 +1,5 @@
 {
-  "base": "http://100.111.99.90:3000/",
+  "base": "https://admin.korandigitalradartegal.id/api/",
   "login_user": "user/auth/login/",
   "register_user": "user/auth/register/",
   "verify_otp": "user/auth/verify-otp/",
